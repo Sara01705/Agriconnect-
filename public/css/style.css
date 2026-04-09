@@ -1,0 +1,21 @@
+.product-img{
+    height:180px;
+    object-fit:cover;
+}
+.card{
+    border-radius:12px;
+}
+.card:hover{
+    transform:scale(1.03);
+    transition:0.3s;
+}
+.product-main-img{
+    width:420px;
+    height:420px;
+    object-fit:cover;
+    border-radius:12px;
+}
+.product-card img{
+    height:180px;
+    object-fit:cover;
+}
